@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Esraa Ahmed Taha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Student at Faculty of Engineering Helwan University (Computer Department)</h3>
+
+- 🌱 I’m currently learning **Embedded System-Data Analysis**
+
+- 📫 How to reach me **esraaahmed252@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
