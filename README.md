@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esraa Ahmed Taha</h1>
-<h3 align="center">Student at Faculty of Engineering Helwan University (Computer Department)</h3>
+<h3 align="center">Graduated from the Faculty of Engineering, Helwan University, Computer Department</h3>
 
-- 🌱 I’m currently learning **Embedded System-Data Analysis**
+- 🌱 I’m currently learning **Automotive Embedded Systems**
 
 - 📫 How to reach me **esraaahmed252@gmail.com**
 
